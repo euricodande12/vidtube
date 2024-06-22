@@ -19,3 +19,23 @@ Welcome to **Vidtube**, a clone-ish of two of the main YouTube pages developed u
 - **HTML:** Structure of the web pages.
 - **CSS:** Styling and layout of the web pages.
 - **JavaScript:** Minimal scripts for added interactivity.
+
+## Live Demo
+
+Check out the live demo of the project [here](https://euricodande12.github.io/vidtube/).
+
+## Usage
+Feel free to explore and modify the code to understand better how HTML and CSS work together to create responsive web pages. This project is ideal for beginners looking to learn the basics of web development.
+
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have suggestions or improvements.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgments
+YouTube for the inspiration.
+Various online tutorials and documentation for HTML, CSS, and JavaScript.
+
+## Contact
+For any questions or feedback, please reach out to euricodande12@gmail.com.
